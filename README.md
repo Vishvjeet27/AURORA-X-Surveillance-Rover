@@ -1,4 +1,4 @@
-# AURORA-X Tactical 4WD Surveillance Rover
+<img width="869" height="509" alt="Screenshot 2026-04-07 061525" src="https://github.com/user-attachments/assets/c3a416ed-b4fe-4ce5-a4bf-c91af43268c1" /># AURORA-X Tactical 4WD Surveillance Rover
 *A Long-Range RF-Controlled Vehicle with Live Camera Feed*
 
 ## Overview
@@ -11,12 +11,13 @@ The system is divided into two major segments:
 A user-operated handheld controller with dual joysticks.
 
 ![Trransmitter](<Screenshot 2026-04-07 061505.png>)
-![Receiver ](<Screenshot 2026-04-07 061505-1.png>)
+
 ### 2. Vehicle Receiver Unit
 The 4WD rover equipped with video surveillance and a servo-controlled camera mount.
 
-*(Note: Upload the picture of your vehicle from Page 4 of your report to GitHub and ensure it is named `vehicle_receiver.jpg`)*
-![Vehicle Receiver Unit](vehicle_receiver.jpg)
+
+![Vehicle Receiver Unit](<img width="869" height="509" alt="Screenshot 2026-04-07 061525" src="https://github.com/user-attachments/assets/56be1564-d7aa-42b9-80eb-43b412bec718" />
+)
 
 ## Hardware Components
 * **Microcontrollers:** 2x Arduino Nano (ATmega328P)
